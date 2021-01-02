@@ -2,10 +2,10 @@
 | :------------- | :----------: |
 | URL | mi-plan-de-estudio-para-el-2021 |
 | Title	| Mi plan de estudio para el 2021 |
-| Description |  |
-| Img | |
-| Plataform	| |
-| Fecha| |
+| Description | Antes de iniciar el 2021 he escrito una pequeña lista de cosas que quiero aprender con la intención de seguir mejorando como desarrollador. |
+| Img | https://res.cloudinary.com/efrenmartinez/image/upload/v1609402331/efrenmartinez.dev/blog/mi-plan-de-estudio-para-2021/thumbs-2021_hkcg5y.jpg |
+| Plataform	| page personal - dev.to |
+| Fecha| @Jan, 01 2021 |
 
 El 2020 ha terminado. Y para muchos, incluyéndome, ha sido un año bastante distinto.
 
@@ -17,7 +17,7 @@ Antes de iniciar el 2021 he escrito una pequeña lista de cosas que quiero apren
 - **Volver a lo básico**
 - **Salir de mi zona de confort**
 - **Tecnologías que prometen mucho**
-- **Temas adicionales que quiero aprender**
+- **Tecnologías que no son tecnologías pero quiero aprender**
 
 # Objetivo principal
 
@@ -35,17 +35,17 @@ Invertiré más tiempo con mis coaches para practicar.
 
 Tengo más de 4 años programando JavaScript en sus diferentes sabores y colores. 🍧🍧
 
-- JavaScript puro
-- JQuery
-- Angular v2
-- VueJS
+- JavaScript puro.
+- JQuery.
+- Angular v2.
+- VueJS.
 
-Aún así me parece productivo volver a lo básico. Los fundamentos que quiero aprender de nuevo 😎
+Aún así me parece productivo volver a lo básico. Los fundamentos que quiero aprender de nuevo.😎
 
-1. Event loop
-2. Asincronismo
-3. Promesas
-4. API´s del DOM
+1. Event loop.
+2. Asincronismo.
+3. Promesas.
+4. API´s del DOM.
 
 Para eso quiero acabar la Escuela de JavaScript (ahora sí 😆).
 
@@ -53,9 +53,9 @@ Para eso quiero acabar la Escuela de JavaScript (ahora sí 😆).
 
 Además de JavaScript quiero repasar conceptos propios de desarrollo web como:
 
-1. Responsive Design
-2. CSS Grid Layout
-3. Animaciones
+1. Responsive Design.
+2. CSS Grid Layout.
+3. Animaciones.
 
 [Arquitectura Frontend](https://platzi.com/arquitecto/)
 
@@ -63,10 +63,10 @@ Además de JavaScript quiero repasar conceptos propios de desarrollo web como:
 
 Hasta este punto todo lo anterior ha sido temas de Front-End, en un esfuerzo por salir de mi zona de confort quiero aventurarme un poco más a Back-End:
 
-1. Docker y Docker Compose
+1. Docker y Docker Compose.
 2. PHP específicamente Lavavel.
-3. Wordpress
-4. Serverless
+3. Wordpress.
+4. Serverless.
 
 [Curso de Docker](https://platzi.com/clases/docker/)
 
@@ -76,16 +76,16 @@ Hasta este punto todo lo anterior ha sido temas de Front-End, en un esfuerzo por
 
 [Curso de Google Serverless](https://platzi.com/clases/google-serverless/)
 
-# Tecnologías **que prometen mucho**
+# Tecnologías que prometen mucho
 
-Tecnologías que vengo siguiendo estos últimos meses y prometen mucho aprenderlo.
+Tecnologías que vengo siguiendo estos últimos meses y prometen mucho.
 
-1. VueJS v3
-2. NextJS / React JS
-3. GraphQL
-4. Strapi
-5. Tailwind CSS
-6. Ionic / React Native (todavía no me decido por cuál)
+1. VueJS v3.
+2. NextJS / React JS.
+3. GraphQL.
+4. Strapi.
+5. Tailwind CSS.
+6. Ionic / React Native (todavía no me decido por cuál).
 
 [Curso de Next.js](https://platzi.com/clases/next/)
 
@@ -95,7 +95,7 @@ Tecnologías que vengo siguiendo estos últimos meses y prometen mucho aprenderl
 
 [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 
-# Temas adicionales para aprender
+# Tecnologías que no son tecnologías pero quiero aprender
 
 Temas que no tienen relación con mi rol pero de igual manera me interesa aprender:
 
@@ -104,4 +104,8 @@ Temas que no tienen relación con mi rol pero de igual manera me interesa aprend
 
 ## Un año ocupado por delante
 
-En el papel se ve que es mucho por aprender pero siendo sincero no me apura completarlo por que siempre puedo mover los temas para el año 2021, lo que importa es nunca dejar de aprender 😉
+En el papel se ve que es mucho por aprender pero siendo sincero no me apura completarlo por que siempre puedo mover los temas para el año 2021, lo que importa es nunca dejar de aprender.😉
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/efren-martinez-rodriguez/) y en [GitHub](https://github.com/efrenmartinez).
+
+Y para tí, qué es lo esperas aprender para el 2021?
