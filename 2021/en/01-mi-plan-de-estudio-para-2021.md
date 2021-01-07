@@ -10,17 +10,17 @@ Before starting 2021 I have written a small list of things that I want to learn 
 - **Back to basics**
 - **Out of my comfort zone**
 - **Technologies that promise a lot**
-- **Technologies that are not technologies, but I want to learn**
+- **Goals that are not related to technologies but I want to accomplish**
 
 # Main goal
 
 My main goal for this year 2021 is to learn English.
 
-An objective that I did not give importance to before and for which I have lost very good job opportunities 😕.
+An objective that I did not give enough importance before and for which I have lost very good job opportunities 😕.
 
-For this I will study the Platzi School of English. 👌🏻
+For this I will study in Platzi School of English. 👌🏻
 
-I will spend more time with my coaches to practice.
+I will spend more time with my coaches in orders to practice.
 
 [Escuela de Inglés](https://platzi.com/idioma-ingles/)
 
@@ -33,14 +33,15 @@ I have more than 4 years programming JavaScript in its different flavors and col
 - Angular v2.
 - VueJS.
 
-Still I find it productive to go back to basics. The fundamentals that I want to learn again.😎
+
+Still, I think go going to back to basics. This are topics that I want to learn again.😎
 
 1. Event loop.
 2. Asynchronism.
 3. Promises.
 4. API´s DOM.
 
-For that I want to finish the School of JavaScript (now yes 😆).
+For doing so, I want to finish the School of JavaScript(actually doing is this time 😆).
 
 [Escuela de JavaScript](https://platzi.com/escuela-javascript/)
 
@@ -54,7 +55,7 @@ In addition to JavaScript, I want to review my own web development concepts such
 
 # Out of my comfort zone
 
-Up to this point all of the above have been Front-End themes, in an effort to get out of my comfort zone I want to venture a little more to Back-End:
+Up to this point, all of the the previous goals have been Front-End related topics, in an effort to get out of my comfort zone I want to dive in into Back-End:
 
 1. Docker and Docker Compose.
 2. PHP specifically Lavavel.
@@ -71,7 +72,7 @@ Up to this point all of the above have been Front-End themes, in an effort to ge
 
 # Technologies that promise a lot
 
-Technologies that I have been following in recent months and they promise a lot.
+Technologies that I have been following in recent months and they surely promise a lot.
 
 1. VueJS v3.
 2. NextJS / React JS.
@@ -88,13 +89,13 @@ Technologies that I have been following in recent months and they promise a lot.
 
 [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 
-# Technologies that are not technologies, but I want to learn
+# Goals that are not related to technologies but I want to accomplish
 
-Topics that I am interested in learning to improve my professional profile:
+Goals that I am interested in accomplish to improve my professional profile:
 
-1. How to write good content.
-2. How to write good documentation.
+1. Write good content.
+2. Write good documentation.
 
 ## A busy year ahead
 
-On paper you can see that there is a lot to learn but being honest I am not in a hurry to complete it because I can always move the topics to the year 2021, what matters is never stop learning.
+On paper you can see that there is a lot to learn but being honest I am not in a hurry to complete it because I can always move the topics to the year 2022, what matters is **never stop learning**.

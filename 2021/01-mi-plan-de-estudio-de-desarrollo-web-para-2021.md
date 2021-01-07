@@ -104,7 +104,7 @@ Temas que me interesa aprender para mejorar mi perfil profesional:
 
 ## Un año ocupado por delante
 
-En el papel se ve que es mucho por aprender pero siendo sincero no me apura completarlo por que siempre puedo mover los temas para el año 2021, lo que importa es nunca dejar de aprender.😉
+En el papel se ve que es mucho por aprender pero siendo sincero no me apura completarlo por que siempre puedo mover los temas para el año 2022, lo que importa es nunca dejar de aprender.😉
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/efren-martinez-rodriguez/) y en [GitHub](https://github.com/efrenmartinez).
 
